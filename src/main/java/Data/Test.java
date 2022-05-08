@@ -1,4 +1,4 @@
-package Data;
+package main.java.Data;
 
 public class Test {
     public Test(){
